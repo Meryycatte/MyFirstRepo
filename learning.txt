@@ -1,0 +1,1 @@
+During this course, I’ve learned how to use GitHub, create repositories, commit changes, and collaborate using version control. It's helping me become more confident with coding and teamwork.
